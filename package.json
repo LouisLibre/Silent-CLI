@@ -1,0 +1,29 @@
+{
+  "name": "silent-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "silent-cli": "./index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@noble/secp256k1": "^1.6.3",
+    "async": "^3.2.4",
+    "bcrypto": "^5.4.0",
+    "bech32": "^2.0.0",
+    "bip32": "^3.0.1",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.0.1",
+    "chalk": "^5.0.1",
+    "commander": "^9.4.0",
+    "node-fetch": "^3.2.9",
+    "secp256k1": "^4.0.3",
+    "tiny-secp256k1": "^2.2.1"
+  }
+}
