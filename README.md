@@ -1,5 +1,5 @@
 > **Warning**
-> Work In Progress
+> Work In Progress, Waiting for BIP to drop to continue working on this.
 
 # silent-cli
 
